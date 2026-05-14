@@ -5,11 +5,11 @@
   --font-serif: 'Cormorant Garamond', Georgia, serif;
   --font-sans: 'Montserrat', system-ui, sans-serif;
 
-  --color-gold: /* your gold value e.g. #D4AF37 */;
-  --color-rose-gold: /* your rose-gold value */;
-  --color-nude: /* your nude value */;
-  --color-soft-pink: /* your soft-pink value */;
-  --color-champagne: /* your champagne value */;
+  --color-gold: #D4AF37;
+  --color-rose-gold: #B76E79;
+  --color-nude: #E5D3B3;
+  --color-soft-pink: #F6E3E6;
+  --color-champagne: #F7E7CE;
 
   --animate-gradient-shift: gradient-shift 15s ease infinite;
 
